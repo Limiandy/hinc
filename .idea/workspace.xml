@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af897748-a07b-43ee-b86d-ba5ce2f415f0" name="默认的" comment="" />
+    <list default="true" id="af897748-a07b-43ee-b86d-ba5ce2f415f0" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607649363323</updated>
       <workItem from="1607649364486" duration="4557000" />
-      <workItem from="1607655155610" duration="5364000" />
+      <workItem from="1607655155610" duration="5500000" />
     </task>
     <servers />
   </component>

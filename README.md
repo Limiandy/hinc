@@ -1,4 +1,4 @@
-p## hinc.css 一个极简的 css 框架
+## hinc.css 一个极简的 css 框架
 
 ### 开始使用
 
